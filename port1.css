@@ -1,0 +1,65 @@
+body {
+    background: rgb(8, 0, 0);
+}
+
+.box {
+    display: inline-block;
+    background-color: rgba(245, 238, 201, 0.986);
+    width: 400px;
+    height: 700px;
+}
+
+.h {
+    display: inline-block;
+    border: 20px;
+    padding: 50px;
+}
+
+.al {
+    display: inline-block;
+    padding-top: 40px;
+    padding: 50px;
+}
+
+.img {
+    display: inline-block;
+    width: 500px;
+    border-radius: 50%;
+    text-align: top;
+}
+
+.div2 {
+    display: inline-block;
+    text-align: center;
+    padding-left: 200px;
+    padding-top: 100px;
+    padding: 100px;
+    border: 200px;
+}
+
+.res {
+    display: inline-block;
+    text-align: center;
+    width: 1500px;
+    height: 1000px;
+}
+
+.con {
+    display: inline-block;
+    padding-top: 100px;
+    padding-left: 550px;
+}
+
+.sub {
+    position: sticky;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    width: 99px;
+    height: 50px;
+    border-radius: 100px/50px;
+}
+
+.p {
+    position: absolute;
+    left: 30px;
+}
