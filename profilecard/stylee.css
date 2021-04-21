@@ -1,0 +1,63 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.card1 {
+    margin: 1%;
+    background-color: white;
+    height: 114px;
+    width: auto;
+}
+
+.img {
+    margin-left: 16px;
+    margin-top: 20px;
+    width: 82px;
+    height: 82px;
+}
+
+.name1_crd {
+    float: left;
+    position: absolute;
+    top: 15px;
+    left: 137px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.name2_crd {
+    color: rgba(0, 0, 0, 0.425);
+    float: left;
+    position: absolute;
+    margin-left: 137px;
+    top: 60px;
+}
+
+.card2 {}
+
+.box2 {
+    transition: 0.3s;
+    border-radius: 0px 0px 5px 5px;
+    color: blue;
+    margin-top: 0px;
+    background-color: white;
+    min-height: 100%;
+    width: 55%;
+    display: flex;
+    float: left;
+    padding: 20px 20px 12px 12px;
+}
+
+.box3 {
+    transition: 0.3s;
+    border-radius: 5px 5px 5px 5px;
+    color: blue;
+    margin-top: 0px;
+    margin-left: 5%;
+    background-color: white;
+    min-height: 10px;
+    width: 35%;
+    padding: 10px 10px 10px 10px;
+    float: right;
+}
